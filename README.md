@@ -36,22 +36,26 @@ I am a motivated **B.Tech Computer Science student** with a strong interest in *
 
 ## 👨‍💻 Coding Profiles
 
+## 🔗 Coding Profiles
+
 <p align="left">
-  <!-- LeetCode -->
   <a href="https://leetcode.com/u/joshu24/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"
-         alt="LeetCode" width="45"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 
-
-
-  <!-- HackerRank -->
   <a href="https://www.hackerrank.com/jyothsna24v" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png"
-         alt="HackerRank" width="45"/>
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
 
+  <a href="https://www.codingninjas.com/codestudio/profile/JyothsnaV" target="_blank">
+    <img src="https://img.shields.io/badge/Code360-FF6F00?style=for-the-badge&logo=codingninjas&logoColor=white"/>
+  </a>
+
+  <a href="https://www.codechef.com/users/jyothsna_24" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+  </a>
 </p>
+
 
 
 ---
@@ -63,7 +67,6 @@ I am a motivated **B.Tech Computer Science student** with a strong interest in *
          alt="LinkedIn" width="45"/>
   </a>
 </p>
----
 
 ## ✨ Fun Fact
 I love learning new technologies and turning ideas into projects 🚀
