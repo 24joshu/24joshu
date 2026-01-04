@@ -18,27 +18,28 @@ I am a motivated **B.Tech Computer Science student** with a strong interest in *
   <!-- LeetCode -->
   <a href="https://leetcode.com/u/joshu24/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"
-         alt="LeetCode" width="40" height="40"/>
+         alt="LeetCode" width="40"/>
   </a>
 
   <!-- HackerRank -->
   <a href="https://www.hackerrank.com/jyothsna24v" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg"
-         alt="HackerRank" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png"
+         alt="HackerRank" width="40"/>
   </a>
 
   <!-- Code360 (Coding Ninjas) -->
   <a href="https://www.codingninjas.com/codestudio/profile/JyothsnaV" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Coding_Ninjas_logo.svg"
-         alt="Code360" width="40" height="40"/>
+         alt="Code360" width="40"/>
   </a>
 
   <!-- CodeChef -->
-  <a href="https://www.codechef.com/users/jyothsna_24" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codechef/codechef-original.svg"
-         alt="CodeChef" width="40" height="40"/>
+  <a href="https://upload.wikimedia.org/wikipedia/commons/7/79/CodeChef_Logo.png" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/CodeChef_Logo.png"
+         alt="CodeChef" width="40"/>
   </a>
 </p>
+
 
 ---
 
