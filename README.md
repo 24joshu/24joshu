@@ -22,7 +22,7 @@ I am a motivated **B.Tech Computer Science student** with a strong interest in *
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joshu24&show_icons=true)
+![GitHub Stats](https://github.com/24joshu)
 
 ---
 
