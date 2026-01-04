@@ -38,31 +38,28 @@ I am a motivated **B.Tech Computer Science student** with a strong interest in *
 
 <p align="left">
   <a href="https://leetcode.com/u/joshu24/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="35"/>
-    LeetCode
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </p>
 
 <p align="left">
   <a href="https://www.hackerrank.com/jyothsna24v" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="35"/>
-    HackerRank
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
 </p>
 
 <p align="left">
   <a href="https://www.codingninjas.com/codestudio/profile/JyothsnaV" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Coding_Ninjas_logo.svg" width="35"/>
-    Code360
+    <img src="https://img.shields.io/badge/Code360-FF6F00?style=for-the-badge&logo=codingninjas&logoColor=white"/>
   </a>
 </p>
 
 <p align="left">
   <a href="https://www.codechef.com/users/jyothsna_24" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/CodeChef_Logo.png" width="35"/>
-    CodeChef
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
   </a>
 </p>
+
 
 
 ---
