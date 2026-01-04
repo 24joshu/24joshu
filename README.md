@@ -40,7 +40,7 @@ I am a motivated **B.Tech Computer Science student** with a strong interest in *
   <!-- LeetCode -->
   <a href="https://leetcode.com/u/joshu24/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"
-         alt="LeetCode" width="40"/>
+         alt="LeetCode" width="45"/>
   </a>
 
 
@@ -48,7 +48,7 @@ I am a motivated **B.Tech Computer Science student** with a strong interest in *
   <!-- HackerRank -->
   <a href="https://www.hackerrank.com/jyothsna24v" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png"
-         alt="HackerRank" width="40"/>
+         alt="HackerRank" width="45"/>
   </a>
 
 </p>
@@ -60,7 +60,7 @@ I am a motivated **B.Tech Computer Science student** with a strong interest in *
 <p align="left">
   <a href="https://www.linkedin.com/in/jyothsnavamisetti/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-         alt="LinkedIn" width="40"/>
+         alt="LinkedIn" width="45"/>
   </a>
 </p>
 ---
