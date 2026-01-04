@@ -21,6 +21,8 @@ I am a motivated **B.Tech Computer Science student** with a strong interest in *
          alt="LeetCode" width="40"/>
   </a>
 
+
+
   <!-- HackerRank -->
   <a href="https://www.hackerrank.com/jyothsna24v" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png"
@@ -30,6 +32,15 @@ I am a motivated **B.Tech Computer Science student** with a strong interest in *
 </p>
 
 
+---
+## 📫 Contact Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/jyothsnavamisetti/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+         alt="LinkedIn" width="40"/>
+  </a>
+</p>
 ---
 
 ## 📊 GitHub Stats
