@@ -14,7 +14,10 @@ I am a motivated **B.Tech Computer Science student** with a strong interest in *
 
 
 ## 📈 Coding Profiles
-- 🔗 LinkedIn: https://www.linkedin.com/in/jyothsnavamisetti/
+<a href="https://leetcode.com/jyothsnavamisetti//" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" 
+       alt="LeetCode" width="40" height="40">
+</a>
 - 🧠 HackerRank: https://www.hackerrank.com/profile/jyothsna24v
 - 💡 LeetCode: https://leetcode.com/u/Joshu24/
 - 🎓 CodeChef: https://www.codechef.com/users/jyothsna_24
