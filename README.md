@@ -27,17 +27,6 @@ I am a motivated **B.Tech Computer Science student** with a strong interest in *
          alt="HackerRank" width="40"/>
   </a>
 
-  <!-- Code360 (Coding Ninjas) -->
-  <a href="https://www.codingninjas.com/codestudio/profile/JyothsnaV" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Coding_Ninjas_logo.svg"
-         alt="Code360" width="40"/>
-  </a>
-
-  <!-- CodeChef -->
-  <a href="https://upload.wikimedia.org/wikipedia/commons/7/79/CodeChef_Logo.png" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/CodeChef_Logo.png"
-         alt="CodeChef" width="40"/>
-  </a>
 </p>
 
 
