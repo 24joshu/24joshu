@@ -14,7 +14,7 @@ I am a motivated **B.Tech Computer Science student** with a strong interest in *
 
 
 ## 📈 Coding Profiles
-<a href="https://leetcode.com/jyothsnavamisetti/" target="_blank">
+<a href="https://leetcode.com/u/Joshu24/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"
        alt="LeetCode" width="40">
 </a>
