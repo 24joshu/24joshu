@@ -17,7 +17,8 @@
 
 
 ## 📈 Coding Profiles
-- 🔗 LinkedIn: https://www.linkedin.com/in/jyothsnavamisetti/
+- 🔗 <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/6be9461f-2172-480a-a40b-db1806625e5f" />
+: https://www.linkedin.com/in/jyothsnavamisetti/
 - 🧠 HackerRank: https://www.hackerrank.com/profile/jyothsna24v
 - 💡 LeetCode: https://leetcode.com/u/Joshu24/
 - 🎓 CodeChef: https://www.codechef.com/users/jyothsna_24
